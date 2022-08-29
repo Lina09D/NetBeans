@@ -1,0 +1,2 @@
+# NetBeans
+Proyecto PetManager
